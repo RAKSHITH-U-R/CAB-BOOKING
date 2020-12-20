@@ -186,7 +186,7 @@ float costoftravel=0;
         fclose(fp1);
 
 
-   l1:fp2=fopen("ourcars.txt","r");
+    l1:fp2=fopen("ourcars.txt","r");
     printf("The list of cars we have are now shown below!!!!!!!!!!\n");
 
     while(!feof(fp2))
