@@ -1,0 +1,4 @@
+CAR MODEL	CAR NAME		No:of bags	No of seats	AC/NON-AC	Mileage
+sedan		dzire			1		4		AC		24
+hatchback	indica			2		4		NonAC		30
+SUV		xylo			4		6		AC		33
